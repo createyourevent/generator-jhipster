@@ -38,6 +38,7 @@
     ".": {
       "import": "./lib/index.mjs",
       "default": "./lib/index.js"
+
     },
     "./cli/": "./cli/",
     "./generators/": "./generators/",
