@@ -85,11 +85,11 @@
   "dependencies": {
     "@faker-js/faker": "5.5.3",
     "aws-sdk": "2.1209.0",
-    "axios": "0.27.2",
+    "axios": "1.6.8",
     "chalk": "4.1.2",
     "chevrotain": "10.3.0",
     "commander": "9.4.0",
-    "conf": "10.2.0",
+    "conf": "12.0.0",
     "debug": "4.3.4",
     "didyoumean": "1.2.2",
     "ejs": "3.1.8",
@@ -99,7 +99,7 @@
     "isbinaryfile": "4.0.10",
     "js-yaml": "4.1.0",
     "lodash": "4.17.21",
-    "mem-fs-editor": "9.5.0",
+    "mem-fs-editor": "11.0.1",
     "minimatch": "5.1.0",
     "normalize-path": "3.0.0",
     "os-locale": "5.0.0",
@@ -118,8 +118,8 @@
     "then-request": "6.0.2",
     "uuid": "8.3.2",
     "winston": "3.8.1",
-    "yeoman-environment": "3.10.0",
-    "yeoman-generator": "5.7.0"
+    "yeoman-environment": "4.0.0",
+    "yeoman-generator": "7.1.1"
   },
   "devDependencies": {
     "chai": "4.3.6",
